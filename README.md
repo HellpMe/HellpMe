@@ -17,12 +17,13 @@ Hey there! I'm Bruno Henrique
 
 <h3>🧰 &nbsp;My tools</h3>
 
--  💻 &nbsp; <img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/nodejs.svg" height="22em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/typescript.svg" height="21em">
-
+-  💻 &nbsp; <img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/nodejs.svg" height="22em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/typescript.svg" height="21em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/419f9810adbe3ce1233a18c96ea9571e4d80262f/svgs/react-2.svg" height="21em">
 
 - ⚙️ &nbsp; <img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/git.svg" height="22em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/tower-3-flat-.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/github-icon.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/markdown.svg" height="23em">
 
 - 🔧 &nbsp; <img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/vscode.svg" height="22em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/insomnia.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/bk-logo-full-lightbg.svg" height="23em"> 
+
+- <img src="https://raw.githubusercontent.com/HellpMe/HellpMe/419f9810adbe3ce1233a18c96ea9571e4d80262f/svgs/data-lock_icon-icons.com_52840.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/419f9810adbe3ce1233a18c96ea9571e4d80262f/svgs/firebase-1.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/419f9810adbe3ce1233a18c96ea9571e4d80262f/svgs/MongoDB_Logo.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/419f9810adbe3ce1233a18c96ea9571e4d80262f/svgs/prisma-2.svg" height="23em">
 
 
 <p align='center'>
