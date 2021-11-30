@@ -17,7 +17,12 @@ Hey there! I'm Bruno Henrique
 
 <h3>🧰 &nbsp;My tools</h3>
 
--  💻 &nbsp;
+-  💻 &nbsp; <img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/nodejs.svg" height="22em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/typescript.svg" height="21em">
+
+
+- ⚙️ &nbsp; <img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/git.svg" height="22em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/tower-3-flat-.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/github-icon.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/markdown.svg" height="23em">
+
+- 🔧 &nbsp; <img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/vscode.svg" height="22em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/insomnia.svg" height="23em"> &nbsp;<img src="https://raw.githubusercontent.com/HellpMe/HellpMe/2587ad7f0df3cc97fa2345cdada2378ffadf05a7/svgs/bk-logo-full-lightbg.svg" height="23em"> 
 
 
 <p align='center'>
